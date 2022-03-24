@@ -2,6 +2,8 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 
+// This is simple and cheap way to make lottery contract.
+// This contract is disposable, so its code may be greatly optimazed during compilation.
 
 contract Lottery {
 
